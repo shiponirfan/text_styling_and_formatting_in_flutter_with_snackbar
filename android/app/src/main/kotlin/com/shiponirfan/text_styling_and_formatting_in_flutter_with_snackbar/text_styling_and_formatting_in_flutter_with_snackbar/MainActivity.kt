@@ -1,0 +1,5 @@
+package com.shiponirfan.text_styling_and_formatting_in_flutter_with_snackbar.text_styling_and_formatting_in_flutter_with_snackbar
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
